@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328682946260",
+    "project_id": "orderprocessessingapp",
+    "storage_bucket": "orderprocessessingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328682946260:android:cdc383bb78ccc3dc20c541",
+        "android_client_info": {
+          "package_name": "com.example.order_processesing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328682946260-fnp1ikkgfjrlu5uu5djq47g1ot19q7e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAwKteGH8Yh5EP-8KCTZxDrzzQQ0-xk0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328682946260-fnp1ikkgfjrlu5uu5djq47g1ot19q7e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
